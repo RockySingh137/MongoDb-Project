@@ -1,0 +1,24 @@
+{
+  "name": "mongodb-project",
+  "version": "1.0.0",
+  "description": "![image](https://uno-website-assets.s3.amazonaws.com/wp-content/uploads/2022/09/28094927/Uno_HackFest22_Hero_V1-1024x395.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tussharpaul13/MongoDb-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tussharpaul13/MongoDb-Project/issues"
+  },
+  "homepage": "https://github.com/tussharpaul13/MongoDb-Project#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.6.5"
+  }
+}
