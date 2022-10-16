@@ -36,3 +36,7 @@ app.post('/sign_up',(req,res)=>{
     })
     return res.redirect('signup_success.html')
 })
+app.get('/',(req,res)=>{
+    return res.redirect('index.html')
+}).listen(3000)
+console.log("server started..")
